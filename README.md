@@ -6,7 +6,7 @@ if($cpf){
                 $header= array(
                     'Content-Type:application/json'
                 );
-                $data= ["chave"=> "ce0051b0-0408-40cf-8573-495894fe216e",
+                $data= ["chave"=> "",
                         "registro"=> "",
                         "cpf"=> $cpf,
                         ];
